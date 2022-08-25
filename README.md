@@ -1,5 +1,5 @@
 # BBC news classification analysis using natural language processing
-> Deep learning prediction of BBC news articles using natural language processing
+> Deep learning prediction of BBC news articles using natural language processing.
 
 ## Table of Contents
 * [General Info](#general-information)
